@@ -1,2 +1,2 @@
-test:
-
+test-service: This is a value from configuration server.
+test-server: 
